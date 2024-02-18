@@ -1,5 +1,3 @@
-# Kilobyte.Farm
-
 ## About
 <a href="https://kilobyte.farm">Kilobyte.Farm</a> is a community farming project built on the PulseChain blockchain
 
